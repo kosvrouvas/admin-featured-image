@@ -1,0 +1,21 @@
+.column-featured_image img {
+    border: medium none;
+    width: 100%;
+    height: auto;
+}
+
+#afi_featured_image .title{margin-top:10px;display:block;}
+#afi_featured_image a.afi_upload_featured_image{
+    display:inline-block;
+    margin:10px 0 0;
+}
+
+#afi_featured_image img{
+    display:block;
+    max-width:200px !important;
+    height:auto;
+}
+
+#afi_featured_image .afi_remove_featured_image{
+    display:none;
+}
